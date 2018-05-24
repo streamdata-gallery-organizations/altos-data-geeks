@@ -1,16 +1,14 @@
 ---
 name: Altos Data Geeks
 x-slug: altos-data-geeks
-description: Altos Research monitors real estate markets and provides real-time, curated
-  insights for buyers and sellers. Self-proclaimed *Data Geeks* with an obsession
-  on real-time housing market analytics. If you care about the housing market, were
-  your friend.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/altos-research-logo-link.png
+description: We track 100 million properties across the U.S. so you (and your clients)
+  can stay ahead of the curve.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/10159-altos-data-geeks.jpg
 x-kinRank: "8"
-x-alexaRank: ""
+x-alexaRank: "1541052"
 tags: Altos Data Geeks
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/altos-data-geeks/master/_listings/altos-data-geeks/apis.md
 specificationVersion: "0.14"
 apis: []
@@ -19,6 +17,14 @@ x-common:
   url: http://blog.altosresearch.com/
 - type: x-blog-rss
   url: http://feeds2.feedburner.com/altos
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/altos-research
+- type: x-email
+  url: info@altosresearch.com
+- type: x-email
+  url: support@altosresearch.com
+- type: x-email
+  url: Mike@altosresearch.com
 - type: x-twitter
   url: https://twitter.com/altosresearch
 - type: x-website
